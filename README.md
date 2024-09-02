@@ -3,6 +3,7 @@
 Meu nome é Giselly Dutra
 
 °Estou estudando na Alura
+
 °Estou me desenvolvendo na linguagem JavaScript
 
 
